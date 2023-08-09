@@ -17,8 +17,8 @@ Grammatical mistakes are also included in Chinglish as the difference of grammar
 
 来看看这个新的 Minecraft 语言——中式英语（中国大陆）
 
-中式英语相信大家都并不熟悉（怎么有点像营销号233），
-如果真的不熟悉就去看英语解释（
+中式英语相信大家都很熟悉了熟悉（怎么有点像营销号233），
+所以如果真的不熟悉就去看英语解释（
 
 # Minecraft play house make language - Chinglish
 
