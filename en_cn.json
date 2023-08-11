@@ -26,7 +26,7 @@
     "advMode.notEnabled": "No listen to me block in this service machine",
     "advMode.previousOutput": "Up one print(\"\")",
     "advMode.randomPlayer": "Use “@r” come represent random one play house",
-    "advMode.self": "Use “@s” come reoresent run entity",
+    "advMode.self": "Use “@s” come represent run entity",
     "advMode.setCommand": "Make this block control table listen to me",
     "advMode.setCommand.success": "OK Make：%s",
     "advMode.trackOutput": "Write down print(\"\"",
